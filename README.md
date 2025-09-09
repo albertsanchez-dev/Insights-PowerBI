@@ -40,3 +40,15 @@ Si quieres ver mis proyectos en acción o discutir análisis de datos, puedes co
 LinkedIn: [https://www.linkedin.com/in/albert-sanchez-dataeng/](https://www.linkedin.com/in/albert-sanchez-dataeng/)
 
 Email: [alberthaissem@gmail.com](alberthaissem@gmail.com)
+
+-----------------------------
+
+### Disclaimer / Nota sobre los proyectos
+
+Los proyectos contenidos en este repositorio tienen distintos orígenes:
+ - Cursos y talleres
+ - Tutoriales en línea
+ - Inspiración de otros proyectos
+ - Proyectos propios
+
+El propósito de este repositorio es demostrar habilidades en Power BI, incluyendo modelado de datos, visualización y análisis de insights.
