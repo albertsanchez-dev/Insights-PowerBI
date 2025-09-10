@@ -1468,4 +1468,5 @@ Yes,Non-Travel,25 - 34,Ex-Employees,R&D,Technical Degree,STAFF-1905,1905,Male,Re
 Yes,Travel_Frequently,25 - 34,Ex-Employees,R&D,Life Sciences,STAFF-1868,1868,Male,Research Scientist,Single,Yes,Y,3,-2,0,29,0,459,24,Associates Degree,1,4,73,2,1,4,2439,14753,1,24,4,2,80,0,1,2,1,0,1,0
 Yes,Travel_Frequently,35 - 44,Ex-Employees,Sales,Other,STAFF-1667,1667,Male,Sales Executive,Single,Yes,Y,2,-2,0,35,0,880,12,Master's Degree,1,4,36,3,2,4,4581,10414,3,24,4,1,80,0,13,4,11,9,6,7
 Yes,Travel_Rarely,Under 25,Ex-Employees,R&D,Life Sciences,STAFF-1878,1878,Male,Research Scientist,Single,Yes,Y,2,-2,0,22,0,391,7,High School,1,4,75,3,1,2,2472,26092,1,23,4,1,80,0,1,3,1,0,0,0
+
 Yes,Travel_Rarely,Under 25,Ex-Employees,Sales,Life Sciences,STAFF-1702,1702,Male,Sales Representative,Divorced,Yes,Y,2,-2,0,23,0,427,7,Bachelor's Degree,1,3,99,3,1,4,2275,25103,1,21,4,2,80,1,3,3,3,2,0,2
